@@ -4,6 +4,7 @@
 I build full products end-to-end — frontend, backend, infrastructure, and the occasional 3D visualization because it's fun. Based in Norway.
 
 - 🔭 Currently building **[Berghweb](https://berghweb.no)** — a personal platform combining a portfolio, a data-driven Fantasy Premier League analysis tool, and a couple of side experiments, all running on a self-built Cloudflare Workers backend.
+- 🐑 Also building **Lamb**, a location-based audio guide app (React Native + Appwrite) — in active development.
 - 🌍 I like projects that mix real data with visualization — climate data, sports stats, maps.
 - 📫 Reach me at berghjunior@gmail.com
 
@@ -21,6 +22,14 @@ The full source is private (it's a real product, not a demo), but the core backe
 
 ---
 
+### In progress — Lamb
+
+A location-based audio guide app (React Native/Expo + Appwrite): guide entries trigger as you walk near them, with a collectible-badge and leaderboard layer on top of a custom avatar builder. Aiming to take this from side project to a real product.
+
+Still private while it's early, but the auth flow, profile system, and avatar builder are extracted in **[lamb-showcase](https://github.com/Lubbsaur/lamb-showcase)** — the proximity-trigger logic, scoring engine, and content model stay private since that's the actual product design.
+
+---
+
 ### Tech I work with
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -31,6 +40,8 @@ The full source is private (it's a real product, not a demo), but the core backe
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 
 ### Other repos
 
