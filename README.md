@@ -49,4 +49,4 @@ Still private while it's early, but the auth flow, profile system, and avatar bu
 
 - **[fpl-proxy](https://github.com/Lubbsaur/fpl-proxy)** — a small proxy for Fantasy Premier League data
 - **[WeatherApp](https://github.com/Lubbsaur/WeatherApp)** — first project learning Java
-- **[SpillutviklingX-showcase](https://github.com/Lubbsaur/SpillutviklingX-showcase)** — gameplay scripts (NavMesh enemy AI, quest/dialogue system, combat) from a Unity dungeon-crawler RPG; the full project stays private since it also bundles licensed asset packs I can't redistribute
+- **[Spillutvikling-showcase](https://github.com/Lubbsaur/Spillutvikling-showcase)** — gameplay scripts (NavMesh enemy AI, quest/dialogue system, combat) from a Unity dungeon-crawler RPG; the full project stays private since it also bundles licensed asset packs I can't redistribute
