@@ -35,5 +35,4 @@ The full source is private (it's a real product, not a demo), but the core backe
 ### Other repos
 
 - **[fpl-proxy](https://github.com/Lubbsaur/fpl-proxy)** — a small proxy for Fantasy Premier League data
-- **[bookapi_restapi](https://github.com/Lubbsaur/bookapi_restapi)** — REST API practice
 - **[WeatherApp](https://github.com/Lubbsaur/WeatherApp)** — first project learning Java
