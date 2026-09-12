@@ -42,8 +42,11 @@ Still private while it's early, but the auth flow, profile system, and avatar bu
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### Other repos
 
 - **[fpl-proxy](https://github.com/Lubbsaur/fpl-proxy)** — a small proxy for Fantasy Premier League data
 - **[WeatherApp](https://github.com/Lubbsaur/WeatherApp)** — first project learning Java
+- **[SpillutviklingX-showcase](https://github.com/Lubbsaur/SpillutviklingX-showcase)** — gameplay scripts (NavMesh enemy AI, quest/dialogue system, combat) from a Unity dungeon-crawler RPG; the full project stays private since it also bundles licensed asset packs I can't redistribute
